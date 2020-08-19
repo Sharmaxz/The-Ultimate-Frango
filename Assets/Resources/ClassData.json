@@ -1,0 +1,20 @@
+{
+	"Hank":
+	{
+		"class" : "Warrior",
+		"skill": "Power Attack",
+		"movement" : 5
+	},
+	"Merlyn":
+	{
+		"class" : "Mage",
+		"skill": "Fireball",
+		"movement" : 3
+	},
+	"Bob":
+	{
+		"class" : "Rogue",
+		"skill": "Sneak  Attack",
+		"movement" : 8
+	}
+}
